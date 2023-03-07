@@ -22,3 +22,6 @@ Prerequisite:
 
 ### Input Pinjaman Baru
 ![Form](dokumentasi/pinjaman_baru.png "") 
+
+### Laporan
+![Form](dokumentasi/laporan.png "") 
