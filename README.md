@@ -8,8 +8,17 @@ Prerequisite:
 - Ireport 4.5.0 jar
 
 
-### Form Login
+### Dashboard
 ![Form](dokumentasi/dashboard.png "") 
 
-### Form Login
-![Form](dokumentasi/form_login.png "") 
+### Input Data User
+![Form](dokumentasi/input_data_user.png "") 
+
+### Input Data Anggota
+![Form](dokumentasi/input_data_anggota.png "") 
+
+### Master Data Simpanan
+![Form](dokumentasi/master_data_simpanan.png "") 
+
+### Input Pinjaman Baru
+![Form](dokumentasi/pinjaman_baru.png "") 
