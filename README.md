@@ -14,8 +14,8 @@ Prerequisite:
 ### Input Data User
 ![Form](dokumentasi/input_data_user.png "") 
 
-### Input Data Anggota
-![Form](dokumentasi/input_data_anggota.png "") 
+### Master Data Anggota
+![Form](dokumentasi/master_data_anggota.png "") 
 
 ### Master Data Simpanan
 ![Form](dokumentasi/master_data_simpanan.png "") 
