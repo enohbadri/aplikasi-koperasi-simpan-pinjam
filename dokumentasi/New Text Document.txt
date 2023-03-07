@@ -1,0 +1,6 @@
+Aplikasi yang dibutuhkan dalam pembelajaran matakuliah Pemrograman Visual II ini adalah:
+
+- Netbeans IDE 8.2
+- JDK 1.8.0
+- Ireport 4.5.0 plugin
+- Ireport 4.5.0 jar
